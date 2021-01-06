@@ -1,2 +1,2 @@
 # MoneyKeeper
-webApp for calculation budget (Native JavaScript)
+JS Application for calculation budget
